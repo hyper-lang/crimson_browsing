@@ -1,0 +1,1 @@
+This repository aims to improve the accuracy of crypto wallet extraction from scam websites using agentic browsing. It's intended to be used in conjunction with [Crimoson](https://github.com/pragseclab/Crimson)
